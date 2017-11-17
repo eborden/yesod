@@ -1,3 +1,7 @@
+## 1.4.37.1
+
+* Improve error messages for the CSRF checking functions [#1455](https://github.com/yesodweb/yesod/issues/1455)
+
 ## 1.4.37
 
 * Add `setWeakEtag` function in Yesod.Core.Handler module.
